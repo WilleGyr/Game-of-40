@@ -39,7 +39,7 @@
      <string notr="true">color: gray;</string>
     </property>
     <property name="text">
-     <string>You</string>
+     <string>a</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -64,7 +64,7 @@
      <string notr="true">color: gray;</string>
     </property>
     <property name="text">
-     <string>Opponent</string>
+     <string>b</string>
     </property>
    </widget>
    <widget class="QLabel" name="Line">
@@ -111,7 +111,7 @@
      <string notr="true">color: gray;</string>
     </property>
     <property name="text">
-     <string>2</string>
+     <string>0</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
@@ -136,7 +136,7 @@
      <string notr="true">color: gray;</string>
     </property>
     <property name="text">
-     <string>3</string>
+     <string>0</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>

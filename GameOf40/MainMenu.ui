@@ -236,7 +236,7 @@ border-color: rgb(20, 20, 20);</string>
     <property name="geometry">
      <rect>
       <x>60</x>
-      <y>440</y>
+      <y>360</y>
       <width>261</width>
       <height>51</height>
      </rect>
